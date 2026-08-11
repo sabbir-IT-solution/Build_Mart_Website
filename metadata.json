@@ -1,0 +1,6 @@
+{
+  "name": "Kabir Enterprises",
+  "description": "কবীর এন্টারপ্রাইজ (KABIR ENTERPRISES) - মানসম্মত নির্মাণ সামগ্রীর অফিসিয়াল কর্পোরেট পোর্টাল",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
